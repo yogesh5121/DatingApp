@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "DatingApp.sln",
+    "editor.inlineSuggest.showToolbar": "always"
+}
